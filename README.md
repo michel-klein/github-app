@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# GitHub App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GitHub interface application for API consumption. Created using ReactJS, Styled Components and Axios. Provides information about some username searched, including name, company, followers and repos. 
+
+Available at: https://github-app-dark-mode.netlify.app/
 
 ## Available Scripts
 
