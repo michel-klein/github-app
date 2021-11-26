@@ -1,5 +1,7 @@
 # GitHub App
 
+![image](https://user-images.githubusercontent.com/58671687/143510686-c8905bb9-a439-4c4d-ae8b-02012f666afd.png)
+
 GitHub interface application for API consumption. Created using ReactJS, Styled Components and Axios. Provides information about some username searched, including name, company, followers and repos. 
 
 Available at: https://github-app-dark-mode.netlify.app/
